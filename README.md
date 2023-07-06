@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Zero-CooI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi @Zero-CooI
+- 👀 interested in webdev and artist expression
+- 🌱 currently learning c#, tkinter, and general task automation
+- 💞️ looking to collaborate on ai driven project
 
 <!---
-Zero-CooI/Zero-CooI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Zero-CooI/Zero-CooI is a ✨ special ✨ repository because its 
 --->
